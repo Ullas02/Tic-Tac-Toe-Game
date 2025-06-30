@@ -27,10 +27,9 @@ A fun and responsive **Tic-Tac-Toe** web game built with **HTML**, **CSS**, and 
 ## 📂 Project Structure
 
 tic-tac-toe/
-├── index.html # Game UI and structure
-├── style.css # Layout and styling
-└── app.js # Game logic and events
-
+├── index.html     # Game UI and structure
+├── style.css      # Layout and styling
+└── app.js         # Game logic and events
 
 ---
 
